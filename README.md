@@ -4,7 +4,7 @@ Mobile application where users can search other users, chat and video call in re
 ## Screenshots:
 
 <div align="center">
-    <img src="/assets/first_screen.jpg" width="400px"</img> 
+    <img src="/assets/first_screen.jpg" width="400px"/> 
 </div>
 
   ![demo4](./assets/first_screen.jpeg?raw=true)
