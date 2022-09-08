@@ -4,12 +4,27 @@ Mobile application where users can search other users, chat and video call in re
 ## Screenshots:
 
 <div align="center">
-    <img src="./assets/first_screen.jpeg" width="300px" height="650"/> 
+    <img src="./assets/first_screen.jpeg" width="250px" height="500"/> 
 </div>
 
-  ![demo4](./assets/first_screen.jpeg?raw=true)
-  ![demo2](./assets/profile_screen.jpeg?raw=true)
-  ![demo2](./assets/contacts.jpeg?raw=true)
-  ![demo4](./assets/chat_screen.jpeg?raw=true)
-  ![demo4](./assets/chat_screen_options.jpeg?raw=true)
-  ![demo4](./assets/call_screen.jpeg?raw=true)
+<div align="center">
+    <img src="./assets/profile_screen.jpeg" width="250px" height="500"/> 
+</div>
+
+<div align="center">
+    <img src="./assets/contacts.jpeg" width="250px" height="500"/> 
+</div>
+
+<div align="center">
+    <img src="./assets/chat_screen.jpeg" width="250px" height="500"/> 
+</div>
+
+<div align="center">
+    <img src="./assets/chat_screen_options.jpeg" width="250px" height="500"/> 
+</div>
+
+<div align="center">
+    <img src="./assets/call_screen.jpeg" width="250px" height="500"/> 
+</div>
+
+  
