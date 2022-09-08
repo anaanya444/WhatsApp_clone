@@ -12,10 +12,6 @@ Mobile application where users can search other users, chat and video call in re
 </div>
 
 <div align="center">
-    <img src="./assets/contacts.jpeg" width="250px" height="450"/> 
-</div>
-
-<div align="center">
     <img src="./assets/chat_screen.jpeg" width="250px" height="450"/> 
 </div>
 
